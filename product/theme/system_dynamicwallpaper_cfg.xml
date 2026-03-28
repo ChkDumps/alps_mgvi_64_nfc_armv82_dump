@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!--Transsion Top Secret-->
+<Document>
+<component-info>
+    <color-id>X912</color-id>
+    <package-name>com.transsion.livewallpaper.microsparkslim</package-name>
+    <service-name>com.transsion.livewallpaper.microsparkslim.SparkSlimWallpaperServiceBlack</service-name>
+</component-info>
+<component-info>
+    <color-id>X905</color-id>
+    <package-name>com.transsion.livewallpaper.microsparkslim</package-name>
+    <service-name>com.transsion.livewallpaper.microsparkslim.SparkSlimWallpaperServiceWhite</service-name>
+</component-info>
+<component-info>
+    <country-id>default</country-id>
+    <color-id>default</color-id>
+    <package-name>com.transsion.livewallpaper.microsparkslim</package-name>
+    <service-name>com.transsion.livewallpaper.microsparkslim.SparkSlimWallpaperServiceWhite</service-name>
+</component-info>
+</Document>

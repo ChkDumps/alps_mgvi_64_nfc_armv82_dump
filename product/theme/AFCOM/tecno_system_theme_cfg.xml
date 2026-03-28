@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<Document>
+    <theme-info>
+        <id>-99</id>
+        <name>HiOS</name>
+        <filename>PartyTheme.apk</filename>
+        <filepath>product/theme/PartyTheme/PartyTheme.apk</filepath>
+    </theme-info>
+    <theme-info>
+        <id>-10</id>
+        <name>AFCOM</name>
+        <filename>PartyTheme_AFCOM.apk</filename>
+        <filepath>product/theme/PartyTheme_AFCOM/PartyTheme_AFCOM.apk</filepath>
+        <special-icon-shape-theme-name>AFCOM</special-icon-shape-theme-name>
+    </theme-info>
+</Document>

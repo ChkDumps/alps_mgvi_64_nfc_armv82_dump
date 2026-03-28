@@ -1,0 +1,22 @@
+<Document>
+    <theme-info>
+        <countrytocolor-id>AO-X905,BF-X905,BI-X905,BJ-X905,BW-X905,CD-X905,CF-X905,CG-X905,CI-X905,CM-X905,DZ-X905,EG-X905,ET-X905,GA-X905,GH-X905,GM-X905,GN-X905,GW-X905,KE-X905,LR-X905,LY-X905,MA-X905,MG-X905,ML-X905,MR-X905,MU-X905,MW-X905,MZ-X905,NA-X905,NE-X905,NG-X905,RW-X905,SD-X905,SL-X905,SN-X905,SO-X905,SS-X905,TD-X905,TG-X905,TZ-X905,UG-X905,ZM-X905,ZW-X905</countrytocolor-id>
+        <path>product/theme/AFCOMX905/tecno_system_theme_cfg.xml</path>
+    </theme-info>
+    <theme-info>
+        <countrytocolor-id>AO-X912,BF-X912,BI-X912,BJ-X912,BW-X912,CD-X912,CF-X912,CG-X912,CI-X912,CM-X912,DZ-X912,EG-X912,ET-X912,GA-X912,GH-X912,GM-X912,GN-X912,GW-X912,KE-X912,LR-X912,LY-X912,MA-X912,MG-X912,ML-X912,MR-X912,MU-X912,MW-X912,MZ-X912,NA-X912,NE-X912,NG-X912,RW-X912,SD-X912,SL-X912,SN-X912,SO-X912,SS-X912,TD-X912,TG-X912,TZ-X912,UG-X912,ZM-X912,ZW-X912</countrytocolor-id>
+        <path>product/theme/AFCOMX912/tecno_system_theme_cfg.xml</path>
+    </theme-info>
+    <theme-info>
+        <country-id>AO,BF,BI,BJ,BW,CD,CF,CG,CI,CM,DZ,EG,ET,GA,GH,GM,GN,GW,KE,LR,LY,MA,MG,ML,MR,MU,MW,MZ,NA,NE,NG,RW,SD,SL,SN,SO,SS,TD,TG,TZ,UG,ZM,ZW</country-id>
+        <path>product/theme/AFCOM/tecno_system_theme_cfg.xml</path>
+    </theme-info>
+    <theme-info>
+        <color-id>X905</color-id>
+        <path>product/theme/X905/tecno_system_theme_cfg.xml</path>
+    </theme-info>
+    <theme-info>
+        <color-id>X912</color-id>
+        <path>product/theme/X912/tecno_system_theme_cfg.xml</path>
+    </theme-info>
+</Document>
