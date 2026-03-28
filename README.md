@@ -1,0 +1,14 @@
+# sys_tssi_64_armv82_tecno_dolby-user 15 AP3A.240905.015.A2 974124 dev-keys
+- manufacturer: alps
+- platform: common
+- codename: mgvi_64_nfc_armv82
+- flavor: sys_tssi_64_armv82_tecno_dolby-user
+- release: 15
+- id: AP3A.240905.015.A2
+- incremental: 145002
+- tags: release-keys
+- fingerprint: alps/hal_mgvi_64_nfc_armv82/mgvi_64_nfc_armv82:12/SP1A.210812.016/974124:user/dev-keys
+- is_ab: true
+- brand: alps
+- branch: sys_tssi_64_armv82_tecno_dolby-user-15-AP3A.240905.015.A2-974124-dev-keys
+- repo: alps_mgvi_64_nfc_armv82_dump
